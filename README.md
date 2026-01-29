@@ -2,6 +2,9 @@
 
 JNANASTHAN is an open-source online learning platform designed to empower students through collaborative tools, AI mentorship, curated resources, and skill-based learning pathways. This repository contains the core codebase for the JNANASTHAN platform — including both frontend and backend modules.
 
+
+WEBSITE LINK : https://jnanasthan.netlify.app
+
 🚀 Features
 
 ✔ Virtual Study Groups — Connect with peers, collaborate on projects, and join discussion spaces
